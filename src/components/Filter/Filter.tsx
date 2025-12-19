@@ -1,8 +1,8 @@
 import {
+  Keyboard,
   Text,
   TouchableOpacity,
   type TouchableOpacityProps,
-  Keyboard,
 } from "react-native";
 import { StatusIcon } from "@/components/StatusIcon";
 import { FilterStatus } from "@/types/FilterStatus";
